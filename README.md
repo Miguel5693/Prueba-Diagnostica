@@ -2,7 +2,7 @@
 
 Del Estudiante: Miguel Barrios
 
-Este repositorio contiene las soluciones programadas en C++ para la prueba diagnóstica de **Lenguajes y Compiladores** de la Universidad Nacional Experimental de Guayana (UNEG).
+Este repositorio contiene las soluciones en C++ para la prueba diagnóstica de **Lenguajes y Compiladores**.
 
 ## 📋 Contenido del Proyecto
 El proyecto está estructurado en tres carpetas principales, cada una con su respectivo código fuente:
